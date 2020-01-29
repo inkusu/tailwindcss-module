@@ -36,7 +36,7 @@
     "@nuxtjs/eslint-config": "^2.0.0",
     "babel-eslint": "^10.0.3",
     "babel-jest": "^24.9.0",
-    "codecov": "^3.6.1",
+    "codecov": "^3.6.2",
     "eslint": "^6.8.0",
     "eslint-config-standard": "^14.1.0",
     "eslint-plugin-import": "^2.20.0",
@@ -46,11 +46,11 @@
     "eslint-plugin-standard": "^4.0.1",
     "eslint-plugin-vue": "^6.1.2",
     "get-port": "^5.1.1",
-    "husky": "^4.0.10",
+    "husky": "^4.2.1",
     "jest": "^24.9.0",
-    "nuxt-edge": "^2.11.1-26314569.9aa8db4e",
+    "nuxt-edge": "^2.11.1-26337612.502ab54",
     "request": "latest",
     "request-promise-native": "^1.0.8",
-    "standard-version": "^7.0.1"
+    "standard-version": "^7.1.0"
   }
 }
